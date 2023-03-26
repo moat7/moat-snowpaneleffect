@@ -1,1 +1,1 @@
-print('http Load')
+print('http Load')--just use for load
